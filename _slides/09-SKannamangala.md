@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+My Name is Sagar
 
 ![octofez](https://octodex.github.com/images/octofez.png)
 {: .center}
