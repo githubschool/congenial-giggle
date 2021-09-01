@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: Sept 1 - 2, 2021
+- Facilitator: @selkins13
 
 ## Class Resources
 
